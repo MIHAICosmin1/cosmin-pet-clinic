@@ -14,7 +14,7 @@
 	</parent>
 	<groupId>cosmin.springframework</groupId>
 	<artifactId>cosmin-pet-clinic</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.1</version>
 	<name>cosmin-pet-clinic</name>
 	<description>Cosmin's pet clinic</description>
 	<properties>
@@ -42,7 +42,6 @@
 		<developerConnection>
 			scm:git:git@github.com:MIHAICosmin1/cosmin-pet-clinic.git
 		</developerConnection>
-	  <tag>cosmin-pet-clinic-0.0.1</tag>
   </scm>
 
 </project>
